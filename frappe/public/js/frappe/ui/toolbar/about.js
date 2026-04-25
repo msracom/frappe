@@ -14,7 +14,7 @@ frappe.ui.misc.about = function () {
 				<p>
 					<i class='fa fa-globe fa-fw'></i>
 					${__("Website")}:
-					<a href='https://frappe.io/' target='_blank'>https://frappe.io/</a>
+					<a href='https://masracom.com' target='_blank'>https://masracom.com</a>
 				</p>
 
 				<p>
@@ -25,20 +25,20 @@ frappe.ui.misc.about = function () {
 
 				<p>
 					<i class='fa fa-file-text fa-fw'></i>
-					${__("Frappe Blog")}:
-					<a href='https://frappe.io/blog' target='_blank'>https://frappe.io/blog</a>
+					${__("Masracom ERP Blog")}:
+					<a href='https://masracom.com/blog' target='_blank'>https://masracom.com/blog</a>
 				</p>
 
 				<p>
 					<i class='fa fa-users fa-fw'></i>
-					${__("Frappe Forum")}:
-					<a href='https://discuss.frappe.io' target='_blank'>https://discuss.frappe.io</a>
+					${__("Masracom ERP Forum")}:
+					<a href='https://discuss.masracom.com' target='_blank'>https://discuss.masracom.com</a>
 				</p>
 
 				<p>
 					<i class='fa fa-linkedin fa-fw'></i>
 					${__("LinkedIn")}:
-					<a href='https://linkedin.com/company/frappe-tech' target='_blank'>https://linkedin.com/company/frappe-tech</a>
+					<a href='https://linkedin.com/company/masracom-erp' target='_blank'>https://linkedin.com/company/masracom-erp</a>
 				</p>
 
 				<p>
@@ -83,7 +83,7 @@ frappe.ui.misc.about = function () {
 
 				<hr>
 
-				<p class='text-muted'>${__("&copy; Frappe Technologies Pvt. Ltd. and contributors")} </p>
+				<p class='text-muted'>${__("&copy; Masracom and contributors")} </p>
 			</div>`
 	);
 

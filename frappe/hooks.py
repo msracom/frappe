@@ -3,8 +3,8 @@ import os
 from . import __version__ as app_version
 
 app_name = "frappe"
-app_title = "Frappe Framework"
-app_publisher = "Frappe Technologies"
+app_title = "Masracom Framework"
+app_publisher = "Masracom"
 app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
 app_license = "MIT"
 app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
@@ -494,9 +494,9 @@ standard_help_items = [
 		"is_standard": 1,
 	},
 	{
-		"item_label": "Frappe Support",
+		"item_label": "Masracom ERP Support",
 		"item_type": "Route",
-		"route": "https://frappe.io/support",
+		"route": "https://masracom.com/support",
 		"is_standard": 1,
 	},
 ]
